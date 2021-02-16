@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(132, 109, 161);
+    padding-left: 1.5in;
+    padding-right: 1.5in;
+}
+#mainhead{
+    background-color: rgb(52, 167, 90);
+    color: crimson;
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-variant: small-caps;}
+#part1{
+    background-color: cyan;
+    color: darkmagenta;
+    font-size: medium;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-variant: normal;
+}
+#01{
+    padding-left: 3in;
+}
+#h2{
+    background-color: darkslateblue;
+    color: gold;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: normal;
+    font-variant: small-caps;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#part2{
+    background-color: rgb(54, 185, 28);
+    color: #7c1265;
+    font-size: medium;
+    font-weight: light;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#kl{
+    font-size: x-large;
+    font-weight: bold;
+    color: magenta;
+    font-variant: small-caps;
+}
+#button{
+    border: maroon;
+    background-color: mediumturquoise;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: small-caps;
+    font-weight: bolder;
+    background-image:url(17.jpg);
+    align-self: center;
+    padding-left: 3in;
+    
+}
+
